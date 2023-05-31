@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-content:space-evenly;
 	flex-wrap:wrap;
+	justify-content:space-evenly;
 	flex-direction:row;
-	width:500px;
+	width:400px;
 }
